@@ -1,0 +1,12 @@
+{
+  "C{X} - temperature (°C)_AND_Déplacement - C{X}.DepX (mm)": "C{X}.DepX",
+  "C{X} - temperature (°C)_AND_Déplacement - C{X}.DepZ (mm)": "C{X}.DepZ",
+  "D{X} - temperature (°C)_AND_Déplacement - D{X}.DepX (mm)": "D{X}.DepX",
+  "D{X} - temperature (°C)_AND_Déplacement - D{X}.DepZ (mm)": "D{X}.DepZ",
+  "Déplacement - E{X}.DepX (mm)_AND_E{X} - temperature (°C)": "E{X}.DepX",
+  "Déplacement - E{X}.DepZ (mm)_AND_E{X} - temperature (°C)": "E{X}.DepZ",
+  "DplctPartieBasse - D{X}ADepX (mm)_AND_DplctPartieBasse - D{X}BDepX (mm)_AND_D{X} - temperature (°C)_AND_Déplacement - D{X}.DepX (mm)": "D7.DepX",
+  "DplctPartieBasse - D{X}ADepZ (mm)_AND_DplctPartieBasse - D{X}BDepZ (mm)_AND_D{X} - temperature (°C)_AND_Déplacement - D{X}.DepZ (mm)": "D7.DepZ",
+  "DplctPartieBasse - E{X}ADepX (mm)_AND_DplctPartieBasse - E{X}BDepX (mm)_AND_Déplacement - E{X}.DepX (mm)_AND_E{X} - temperature (°C)": "E8.DepX",
+  "DplctPartieBasse - E{X}ADepZ (mm)_AND_DplctPartieBasse - E{X}BDepZ (mm)_AND_Déplacement - E{X}.DepZ (mm)_AND_E{X} - temperature (°C)": "E8.DepZ"
+}

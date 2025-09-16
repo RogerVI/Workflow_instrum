@@ -1,0 +1,82 @@
+{
+  "C{X}.DepX": {
+    "graph_1-C4 - temperature_C4 - temperature (°C)": "température C4",
+    "graph_2-Déplacement - C4.DepX_Déplacement - C4.DepX (mm)": "C4.DepX (mm)",
+    "graph_3-Déplacement - C5.DepX_Déplacement - C5.DepX (mm)": "C5.DepX (mm)",
+    "graph_4-Déplacement - C6.DepX_Déplacement - C6.DepX (mm)": "C6.DepX (mm)",
+    "graph_5-Déplacement - C7.DepX_Déplacement - C7.DepX (mm)": "C7.DepX (mm)",
+    "graph_6-Déplacement - C8.DepX_Déplacement - C8.DepX (mm)": "C8.DepX (mm)",
+    "graph_7-Déplacement - C9.DepX_Déplacement - C9.DepX (mm)": "C9.DepX (mm)"
+  },
+  "C{X}.DepZ": {
+    "graph (1)_1-C4 - temperature_C4 - temperature (°C)": "température C4",
+    "graph (1)_2-Déplacement - C4.De_Déplacement - C4.DepZ (mm)": "C4.DepZ (mm)",
+    "graph (1)_3-Déplacement - C5.De_Déplacement - C5.DepZ (mm)": "C5.DepZ (mm)",
+    "graph (1)_4-Déplacement - C6.De_Déplacement - C6.DepZ (mm)": "C6.DepZ (mm)",
+    "graph (1)_5-Déplacement - C7.De_Déplacement - C7.DepZ (mm)": "C7.DepZ (mm)",
+    "graph (1)_6-Déplacement - C8.De_Déplacement - C8.DepZ (mm)": "C8.DepZ (mm)",
+    "graph (1)_7-Déplacement - C9.De_Déplacement - C9.DepZ (mm)": "C9.DepZ (mm)"
+  },
+  "D{X}.DepX": {
+    "graph (12)_2-D5 - temperature_D5 - temperature (°C)": "température D5",
+    "graph (4)_6-Déplacement - D7.De_Déplacement - D7.DepX (mm)": "D7.DepX (mm)",
+    "graph (5)_2-Déplacement - D4.De_Déplacement - D4.DepX (mm)": "D4.DepX (mm)",
+    "graph (5)_3-Déplacement - D5.De_Déplacement - D5.DepX (mm)": "D5.DepX (mm)",
+    "graph (5)_4-Déplacement - D6.De_Déplacement - D6.DepX (mm)": "D6.DepX (mm)",
+    "graph (5)_5-Déplacement - D8.De_Déplacement - D8.DepX (mm)": "D8.DepX (mm)",
+    "graph (5)_6-Déplacement - D9.De_Déplacement - D9.DepX (mm)": "D9.DepX (mm)"
+  },
+  "D{X}.DepZ": {
+    "graph (12)_2-D5 - temperature_D5 - temperature (°C)": "température D5",
+    "graph (4)_7-Déplacement - D7.De_Déplacement - D7.DepZ (mm)": "D7.DepZ (mm)",
+    "graph (6)_2-Déplacement - D4.De_Déplacement - D4.DepZ (mm)": "D4.DepZ (mm)",
+    "graph (6)_3-Déplacement - D5.De_Déplacement - D5.DepZ (mm)": "D5.DepZ (mm)",
+    "graph (6)_4-Déplacement - D6.De_Déplacement - D6.DepZ (mm)": "D6.DepZ (mm)",
+    "graph (6)_5-Déplacement - D8.De_Déplacement - D8.DepZ (mm)": "D8.DepZ (mm)",
+    "graph (6)_6-Déplacement - D9.De_Déplacement - D9.DepZ (mm)": "D9.DepZ (mm)"
+  },
+  "E{X}.DepX": {
+    "graph (10)_1-Déplacement - E3.D_Déplacement - E3.DepX (mm)": "E3.DepX (mm)",
+    "graph (10)_2-Déplacement - E4.D_Déplacement - E4.DepX (mm)": "E4.DepX (mm)",
+    "graph (10)_3-Déplacement - E5.D_Déplacement - E5.DepX (mm)": "E5.DepX (mm)",
+    "graph (10)_4-Déplacement - E6.D_Déplacement - E6.DepX (mm)": "E6.DepX (mm)",
+    "graph (10)_5-Déplacement - E7.D_Déplacement - E7.DepX (mm)": "E7.DepX (mm)",
+    "graph (10)_6-Déplacement - E9.D_Déplacement - E9.DepX (mm)": "E9.DepX (mm)",
+    "graph (12)_4-E7 - temperature_E7 - temperature (°C)": "température E7",
+    "graph (7)_1-Déplacement - E8.De_Déplacement - E8.DepX (mm)": "E8.DepX (mm)"
+  },
+  "E{X}.DepZ": {
+    "graph (11)_1-Déplacement - E3.D_Déplacement - E3.DepZ (mm)": "E3.DepZ (mm)",
+    "graph (11)_2-Déplacement - E4.D_Déplacement - E4.DepZ (mm)": "E4.DepZ (mm)",
+    "graph (11)_3-Déplacement - E5.D_Déplacement - E5.DepZ (mm)": "E5.DepZ (mm)",
+    "graph (11)_4-Déplacement - E6.D_Déplacement - E6.DepZ (mm)": "E6.DepZ (mm)",
+    "graph (11)_5-Déplacement - E7.D_Déplacement - E7.DepZ (mm)": "E7.DepZ (mm)",
+    "graph (11)_6-Déplacement - E9.D_Déplacement - E9.DepZ (mm)": "E9.DepZ (mm)",
+    "graph (12)_4-E7 - temperature_E7 - temperature (°C)": "température E7",
+    "graph (8)_1-Déplacement - E8.De_Déplacement - E8.DepZ (mm)": "E8.DepZ (mm)"
+  },
+  "D7.DepX": {
+    "graph (12)_2-D5 - temperature_D5 - temperature (°C)": "température D5",
+    "graph (2)_2-Déplacement - D7.De_Déplacement - D7.DepX (mm)": "D7.DepX (mm)",
+    "graph (4)_2-DplctPartieBasse - _DplctPartieBasse - D7ADepX (mm)": "D7ADepX (mm)",
+    "graph (4)_4-DplctPartieBasse - _DplctPartieBasse - D7BDepX (mm)": "D7BDepX (mm)"
+  },
+  "D7.DepZ": {
+    "graph (12)_2-D5 - temperature_D5 - temperature (°C)": "température D5",
+    "graph (3)_2-Déplacement - D7.De_Déplacement - D7.DepZ (mm)": "D7.DepZ (mm)",
+    "graph (4)_3-DplctPartieBasse - _DplctPartieBasse - D7ADepZ (mm)": "D7ADepZ (mm)",
+    "graph (4)_5-DplctPartieBasse - _DplctPartieBasse - D7BDepZ (mm)": "D7BDepZ (mm)"
+  },
+  "E8.DepX": {
+    "graph (12)_4-E7 - temperature_E7 - temperature (°C)": "température E7",
+    "graph (7)_1-Déplacement - E8.De_Déplacement - E8.DepX (mm)": "E8.DepX (mm)",
+    "graph (9)_1-DplctPartieBasse - _DplctPartieBasse - E8ADepX (mm)": "E8ADepX (mm)",
+    "graph (9)_3-DplctPartieBasse - _DplctPartieBasse - E8BDepX (mm)": "E8BDepX (mm)"
+  },
+  "E8.DepZ": {
+    "graph (12)_4-E7 - temperature_E7 - temperature (°C)": "température E7",
+    "graph (8)_1-Déplacement - E8.De_Déplacement - E8.DepZ (mm)": "E8.DepZ (mm)",
+    "graph (9)_2-DplctPartieBasse - _DplctPartieBasse - E8ADepZ (mm)": "E8ADepZ (mm)",
+    "graph (9)_4-DplctPartieBasse - _DplctPartieBasse - E8BDepZ (mm)": "E8BDepZ (mm)"
+  }
+}
