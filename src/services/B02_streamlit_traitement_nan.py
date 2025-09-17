@@ -3,7 +3,7 @@ from __future__ import annotations
 import json
 import streamlit as st
 import pandas as pd
-from core.A12_traitement_nan import (
+from core.B02_traitement_nan import (
     compute_nan_stats,
     apply_nan_strategy_all,
     apply_nan_strategy_per_df,

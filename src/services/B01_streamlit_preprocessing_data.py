@@ -4,8 +4,8 @@ import re
 import streamlit as st
 import pandas as pd
 
-from core.A11_preprocessing_data import appliquer_transformations_temporelles, exclure_dates
-from services.A12_streamlit_traitement_nan import render_nan_block
+from core.B01_preprocessing_data import appliquer_transformations_temporelles, exclure_dates
+from services.B02_streamlit_traitement_nan import render_nan_block
 
 from core.Z00_prefs import (
     apply_unified_prefs,

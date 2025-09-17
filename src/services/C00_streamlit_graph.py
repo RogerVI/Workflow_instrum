@@ -9,11 +9,11 @@ import pandas as pd
 import streamlit as st
 from matplotlib.colors import to_hex as _mpl_to_hex
 
-from core.C01_graph import (
+from core.C00_graph import (
     tracer_colonnes_separees_core,
     DEFAULT_THRESHOLD_COLORS,
 )
-from core.C02_plotly import tracer_colonnes_plotly_core
+from core.C01_plotly import tracer_colonnes_plotly_core
 from services.D00_streamlit_doc_export import render_docx_export_block
 
 from services.Z00_global_toolbar import render_global_toolbar

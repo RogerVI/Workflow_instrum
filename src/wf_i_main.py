@@ -11,9 +11,9 @@ import streamlit as st
 
 # Pages
 from services.A00_streamlit_import_data import render_import_page
-from services.A10_streamlit_create_df import (render_create_df_page)
-from services.A11_streamlit_preprocessing_data import render_preprocessing_page
-from services.C01_streamlit_graph import render_graph_page
+from services.B00_streamlit_create_df import render_create_df_page
+from services.B01_streamlit_preprocessing_data import render_preprocessing_page
+from services.C00_streamlit_graph import render_graph_page
 from services.C10_streamlit_stats import render_stats_page
 from services.C11_streamlit_correlation import render_correlation_page
 from services.Z00_global_toolbar import render_global_toolbar
